@@ -6,7 +6,7 @@ main()
 	string n,d,A,T; 
 	int un,g; 
 	cout<<"Your Name: ";
-	cin>>n; in string n*/
+	cin>>n; 
 	cout<<"Your University Number: ";
 	cin>>un; /*storing the University Number in integer un*/
 	cout<<"Choose Your Department (T or A): "; /*you should limit your input between capital A and capital T*/
